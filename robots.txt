@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucehuive.github.io/Aom/sitemap_index.txt
+Sitemap: https://ucehuive.github.io/Pwl/sitemap_index.txt
+Sitemap: https://ucehuive.github.io/cgm/sitemap_index.txt
+Sitemap: https://ucehuive.github.io/ekt/sitemap_index.txt
